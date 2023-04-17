@@ -2,3 +2,11 @@ h1 {
   text-align: center;
   color: rgb(219, 170, 8);
 }
+img {
+  margin: 0 auto;
+  display: block;
+  width: 300px;
+}
+form {
+  text-align: center;
+}
