@@ -5,7 +5,8 @@ h1 {
 img {
   margin: 0 auto;
   display: block;
-  width: 300px;
+  width: 800px;
+  height: 500px;
 }
 form {
   text-align: center;
